@@ -1,0 +1,4 @@
+#Mon May 20 18:47:00 ICT 2019
+base.0=D\:\\LAB\\androidproject\\WhatOP\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 20 05:42:49 ICT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\LAB\\androidproject\\WhatOP\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
