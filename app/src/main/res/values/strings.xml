@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatOP</string>
+    <string name="title_activity_challenge">ChallengeActivity</string>
+    <string name="title_activity_add_challenge">AddChallengeActivity</string>
+    <string name="title_activity_data">DataActivity</string>
+</resources>

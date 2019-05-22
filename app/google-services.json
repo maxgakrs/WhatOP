@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557200895061",
+    "firebase_url": "https://whatop-b63bf.firebaseio.com",
+    "project_id": "whatop-b63bf",
+    "storage_bucket": "whatop-b63bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557200895061:android:6a88d461283bbea3",
+        "android_client_info": {
+          "package_name": "com.maxga.whatop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557200895061-0giuifp8fr91854fimm117l02c79roej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxga.whatop",
+            "certificate_hash": "ae6b614ef74effb519799fb22efc0675796d591c"
+          }
+        },
+        {
+          "client_id": "557200895061-2g12jtfl2j605r7sv1359n9ai5ag36dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_R9N6vcZCARYUY1mOJQhuqHogAO_090"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557200895061-2g12jtfl2j605r7sv1359n9ai5ag36dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
