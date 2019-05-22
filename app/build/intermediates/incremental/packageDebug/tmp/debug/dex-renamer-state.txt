@@ -1,4 +1,0 @@
-#Wed May 22 12:04:33 ICT 2019
-base.0=D\:\\LAB\\androidproject\\WhatOP\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex
